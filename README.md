@@ -15,4 +15,5 @@ elif b>a and b>c:
 elif c>a and c>b:
     print(c, "adalah bilangan terbesar")
 
-Dalam program ini, jika bilangan a lebih besar dari b dan c, maka outputnya adalah a. Dan jika bilangan b lebih besar dari a dan c, maka outputnya adalah b. Jika a dan b bukan bilangan terbesar, maka outputnya adalah c.
+Dalam program ini, jika bilangan a lebih besar dari b dan c, maka outputnya adalah a. Dan jika bilangan b lebih besar dari a dan c, maka outputnya adalah b. Jika a dan b bukan bilangan terbesar, maka outputnya adalah c.# Labpsy02
+# Labpsy02
